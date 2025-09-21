@@ -9,12 +9,12 @@ public class ProjectController : Controller
     public IActionResult Index()
     // GET
     {
-        var projects = new List<Project>()
+        var projects = new List<Project>() 
         {
             new Project {ProjectId = 1, Name = "Project 1", Description = "First Project"}, 
         };
         return View(projects);
-    }
+    } 
     [HttpGet]
     public IActionResult Create()
     // GET

@@ -3,12 +3,12 @@ using System.ComponentModel.DataAnnotations;
 namespace COMP2139_ICE.Models;
 
 public class Project
-
+ 
 {
     public int ProjectId { get; set; }
 
     [Required]
-    public required string Name { get; set; }
+    public required string Name { get; set; } 
 
     public string? Description { get; set; }
 
