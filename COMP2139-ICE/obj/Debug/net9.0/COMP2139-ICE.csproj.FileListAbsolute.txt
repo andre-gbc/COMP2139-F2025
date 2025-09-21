@@ -94,3 +94,4 @@
 /Users/aa/Desktop/Fall2025/comp2139/COMP2139-ICE/COMP2139-ICE/obj/Debug/net9.0/COMP2139-ICE.pdb
 /Users/aa/Desktop/Fall2025/comp2139/COMP2139-ICE/COMP2139-ICE/obj/Debug/net9.0/COMP2139-ICE.genruntimeconfig.cache
 /Users/aa/Desktop/Fall2025/comp2139/COMP2139-ICE/COMP2139-ICE/obj/Debug/net9.0/ref/COMP2139-ICE.dll
+/Users/aa/Desktop/Fall2025/comp2139/COMP2139-ICE/COMP2139-ICE/obj/Debug/net9.0/COMP2139-ICE.sourcelink.json
